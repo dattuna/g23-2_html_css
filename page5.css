@@ -1,0 +1,22 @@
+div{
+    width: 900px;
+    height: 100px;
+    margin: 100px;
+    font-size: large;
+}
+.center1{
+    text-align: center;
+}
+body{
+    background-image: url(photo.jpg);
+}
+.img{
+    float: left;
+    width: 270px;
+    height: 180px;
+}
+.img1{
+    float: center;
+    width: 650px;
+    height: 300px;
+}

@@ -1,0 +1,17 @@
+div{
+    width: 900px;
+    height: 100px;
+    margin: 100px;
+    font-size: large;
+}
+.center1{
+    text-align: center;
+}
+body{
+    background-image: url(photo.jpg);
+}
+.img{
+    width: 600px;
+    height: 400px;
+    
+}
